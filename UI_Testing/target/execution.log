@@ -1,0 +1,55 @@
+2021-09-08 17:07:00 INFO  Browser:16 - The test is running on Windows 10
+2021-09-08 17:07:00 INFO  Browser:19 - Setting chrome driver path
+2021-09-08 17:07:00 INFO  Browser:21 - Creating object for ChromeDriver
+2021-09-08 17:07:01 INFO  Browser:26 - Maximizing the window screen
+2021-09-08 17:07:01 INFO  Browser:28 - Setting implicitlyWait in the browser
+2021-09-08 17:07:06 INFO  Home:27 - Clicking on Forum Button
+2021-09-08 17:07:07 INFO  Forum:28 - Entering the username : fsedfsdfsdf
+2021-09-08 17:07:07 INFO  Steps:48 - We are entering password
+2021-09-08 17:31:52 INFO  Browser:16 - The test is running on Windows 10
+2021-09-08 17:31:52 INFO  Browser:19 - Setting chrome driver path
+2021-09-08 17:31:52 INFO  Browser:21 - Creating object for ChromeDriver
+2021-09-08 17:31:54 INFO  Browser:26 - Maximizing the window screen
+2021-09-08 17:31:54 INFO  Browser:28 - Setting implicitlyWait in the browser
+2021-09-08 17:31:59 INFO  Home:27 - Clicking on Forum Button
+2021-09-08 17:32:00 INFO  Forum:28 - Entering the username : fsedfsdfsdf
+2021-09-08 17:32:00 INFO  Steps:48 - We are entering password
+2021-09-08 17:34:24 INFO  Browser:16 - The test is running on Windows 10
+2021-09-08 17:34:24 INFO  Browser:19 - Setting chrome driver path
+2021-09-08 17:34:24 INFO  Browser:21 - Creating object for ChromeDriver
+2021-09-08 17:34:26 INFO  Browser:26 - Maximizing the window screen
+2021-09-08 17:34:26 INFO  Browser:28 - Setting implicitlyWait in the browser
+2021-09-08 17:34:30 INFO  Home:27 - Clicking on Forum Button
+2021-09-08 17:34:31 INFO  Forum:28 - Entering the username : fsedfsdfsdf
+2021-09-08 17:34:31 INFO  Steps:48 - We are entering password
+2021-09-08 17:34:31 INFO  Forum:32 - Entering the username : ********
+2021-09-08 17:34:32 INFO  Forum:36 - Clicking on Login Button
+2021-09-08 17:39:11 INFO  Browser:16 - The test is running on Windows 10
+2021-09-08 17:39:11 INFO  Browser:19 - Setting chrome driver path
+2021-09-08 17:39:11 INFO  Browser:21 - Creating object for ChromeDriver
+2021-09-08 17:39:13 INFO  Browser:26 - Maximizing the window screen
+2021-09-08 17:39:13 INFO  Browser:28 - Setting implicitlyWait in the browser
+2021-09-08 17:39:18 INFO  Home:27 - Clicking on Forum Button
+2021-09-08 17:39:18 INFO  Forum:28 - Entering the username : fsedfsdfsdf
+2021-09-08 17:39:19 INFO  Steps:48 - We are entering password
+2021-09-08 17:39:19 INFO  Forum:32 - Entering the username : ********
+2021-09-08 17:39:19 INFO  Forum:36 - Clicking on Login Button
+2021-09-08 17:49:18 INFO  Browser:16 - The test is running on Windows 10
+2021-09-08 17:49:18 INFO  Browser:19 - Setting chrome driver path
+2021-09-08 17:49:18 INFO  Browser:21 - Creating object for ChromeDriver
+2021-09-08 17:49:20 INFO  Browser:26 - Maximizing the window screen
+2021-09-08 17:49:20 INFO  Browser:28 - Setting implicitlyWait in the browser
+2021-09-08 17:49:25 INFO  Home:27 - Clicking on Forum Button
+2021-09-08 17:49:25 INFO  Forum:28 - Entering the username : fsedfsdfsdf
+2021-09-08 17:49:26 INFO  Steps:48 - We are entering password
+2021-09-08 17:49:26 INFO  Forum:32 - Entering the username : ********
+2021-09-08 17:49:26 INFO  Forum:36 - Clicking on Login Button
+2021-09-08 17:49:26 INFO  Browser:16 - The test is running on Windows 10
+2021-09-08 17:49:26 INFO  Browser:19 - Setting chrome driver path
+2021-09-08 17:49:26 INFO  Browser:21 - Creating object for ChromeDriver
+2021-09-08 17:49:27 INFO  Browser:26 - Maximizing the window screen
+2021-09-08 17:49:28 INFO  Browser:28 - Setting implicitlyWait in the browser
+2021-09-08 17:49:32 INFO  Home:27 - Clicking on Forum Button
+2021-09-08 17:49:33 INFO  Forum:28 - Entering the username : xfedfd
+2021-09-08 17:49:33 INFO  Forum:32 - Entering the username : ********
+2021-09-08 17:49:33 INFO  Forum:36 - Clicking on Login Button

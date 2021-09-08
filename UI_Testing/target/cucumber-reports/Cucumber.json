@@ -1,0 +1,264 @@
+[
+  {
+    "line": 2,
+    "elements": [
+      {
+        "start_timestamp": "2021-09-08T21:49:18.639Z",
+        "line": 4,
+        "name": "I should be able to login in OSA Forum by using valid username and password",
+        "description": "",
+        "id": "title-of-your-feature.-i-want-to-use-this-template-for-my-feature-file;i-should-be-able-to-login-in-osa-forum-by-using-valid-username-and-password",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 2210754100,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "I open the browser",
+            "match": {
+              "location": "com.osa.steps.Steps.i_open_the_browser()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 4178874400,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "I nevigate to \"https://www.osaconsultingtech.com\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "https://www.osaconsultingtech.com",
+                  "offset": 15
+                }
+              ],
+              "location": "com.osa.steps.Steps.i_nevigate_to(java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 781108700,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I click on Forum button",
+            "match": {
+              "location": "com.osa.steps.Steps.i_click_on_Forum_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 275476700,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I enter username",
+            "match": {
+              "location": "com.osa.steps.Steps.i_enter_username()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 82063600,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I enter password",
+            "match": {
+              "location": "com.osa.steps.Steps.i_enter_password()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 80412500,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "I click on Login button",
+            "match": {
+              "location": "com.osa.steps.Steps.i_click_on_Login_button()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "I verify that I am on student page",
+            "match": {
+              "location": "com.osa.steps.Steps.i_verify_that_I_am_on_student_page()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 264107100,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "I close the page",
+            "match": {
+              "location": "com.osa.steps.Steps.i_close_the_page()"
+            },
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@regression"
+          },
+          {
+            "name": "@QA"
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2021-09-08T21:49:26.533Z",
+        "line": 14,
+        "name": "I should be able to navigate to Inteview question page",
+        "description": "",
+        "id": "title-of-your-feature.-i-want-to-use-this-template-for-my-feature-file;i-should-be-able-to-navigate-to-inteview-question-page",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 1501774300,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "I open the browser",
+            "match": {
+              "location": "com.osa.steps.Steps.i_open_the_browser()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 4335288500,
+              "status": "passed"
+            },
+            "line": 16,
+            "name": "I nevigate to \"https://www.osaconsultingtech.com\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "https://www.osaconsultingtech.com",
+                  "offset": 15
+                }
+              ],
+              "location": "com.osa.steps.Steps.i_nevigate_to(java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 764674200,
+              "status": "passed"
+            },
+            "line": 17,
+            "name": "I click on OSA Forum button",
+            "match": {
+              "location": "com.osa.steps.Steps.i_click_on_OSA_Forum_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 235890900,
+              "status": "passed"
+            },
+            "line": 18,
+            "name": "I enter my username",
+            "match": {
+              "location": "com.osa.steps.Steps.i_enter_my_username()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 95572700,
+              "status": "passed"
+            },
+            "line": 19,
+            "name": "I enter my password",
+            "match": {
+              "location": "com.osa.steps.Steps.i_enter_my_password()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 56634100,
+              "status": "passed"
+            },
+            "line": 20,
+            "name": "I click on OSA login button",
+            "match": {
+              "location": "com.osa.steps.Steps.i_click_on_OSA_login_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "passed"
+            },
+            "line": 21,
+            "name": "I click on inteview Question button",
+            "match": {
+              "location": "com.osa.steps.Steps.i_click_on_inteview_Question_button()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "passed"
+            },
+            "line": 22,
+            "name": "I verify that I am on interview question page",
+            "match": {
+              "location": "com.osa.steps.Steps.i_verify_that_I_am_on_interview_question_page()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 153439700,
+              "status": "passed"
+            },
+            "line": 23,
+            "name": "I close the page",
+            "match": {
+              "location": "com.osa.steps.Steps.i_close_the_page()"
+            },
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@regression"
+          },
+          {
+            "name": "@QA"
+          }
+        ]
+      }
+    ],
+    "name": "Title of your feature. I want to use this template for my feature file",
+    "description": "",
+    "id": "title-of-your-feature.-i-want-to-use-this-template-for-my-feature-file",
+    "keyword": "Feature",
+    "uri": "file:src/test/java/com/osa/features/Login.feature",
+    "tags": []
+  }
+]
